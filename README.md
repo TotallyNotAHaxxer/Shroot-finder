@@ -49,3 +49,7 @@ Usage :> go run main.go -t https://www.parrot-pentest.com/
 ```
 
 install the f*king go-lang first 
+
+```
+go get github.com/briandowns/spinner
+```
